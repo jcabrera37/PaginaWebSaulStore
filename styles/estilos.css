@@ -1,0 +1,15 @@
+.titulo span {
+    color: #1c8a21;
+}
+.nav-link{
+    color: #ffff;
+}
+.nav-link:hover{
+    color: #000;
+}
+.navbar{
+    border-top: 1px solid tan;
+    border-bottom: 1px solid tan;
+    background-color: rgb(98, 131, 84);
+    
+}
