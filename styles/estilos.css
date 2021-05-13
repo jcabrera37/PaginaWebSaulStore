@@ -1,5 +1,5 @@
 .titulo span {
-    color: #1c8a21;
+    color: darkgoldenrod;
 }
 .nav-link{
     color: #ffff;
@@ -10,6 +10,29 @@
 .navbar{
     border-top: 1px solid tan;
     border-bottom: 1px solid tan;
-    background-color: rgb(98, 131, 84);
+    background-color: rgb(232, 195, 47);
+    
+}
+.imagen-bg{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    
+}
+
+.imagen-principal{
+    background-image: url(../img/storeimg.jpg);
+    background-position: center;
+    height: 25rem;
+}
+.categorias h2{
+    color: darkgoldenrod;
+    font-size: 2.5rem;
+    
+}
+
+.categorias{
+    color: #272121;
+    text-decoration: none;
     
 }
