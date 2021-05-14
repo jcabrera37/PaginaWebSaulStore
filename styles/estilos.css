@@ -31,8 +31,12 @@
     
 }
 
-.categorias{
+.categorias a{
     color: #272121;
     text-decoration: none;
     
+}
+hr{
+    border-radius: 10px;
+    border: 5px solid darkgoldenrod;
 }
