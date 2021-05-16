@@ -1,5 +1,5 @@
 .titulo span {
-    color: darkgoldenrod;
+    color: rgb(232, 195, 47);
 }
 .nav-link{
     color: #ffff;
@@ -26,7 +26,7 @@
     height: 25rem;
 }
 .categorias h2{
-    color: darkgoldenrod;
+    color: rgb(232, 195, 47);
     font-size: 2.5rem;
     
 }
@@ -38,7 +38,7 @@
 }
 hr{
     border-radius: 10px;
-    border: 5px solid darkgoldenrod;
+    border: 5px solid rgb(232, 195, 47);
 }
 footer a{
     border-radius: 10px;
